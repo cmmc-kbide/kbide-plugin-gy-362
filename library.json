@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-gy-362",
+  "title": "gy-362",
+  "keywords": "gy-362, esp32, esp8266, arduino",
+  "description": "Plugin gy-362 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-362/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-362/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
